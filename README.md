@@ -18,7 +18,7 @@ yes mom i deauthed my sis from the home wifi, im sorry
 ## 
 ![blinkiesCafe-fs](https://github.com/cosmcif/cosmcif/assets/75504103/96184900-b19e-4148-b947-253234642155)
 
-Womanium Quantum Hackathon 2022 [repo](https://github.com/cosmcif/Quantum-Hardware-Education-Challenge---QWorld)
+⚙️ Womanium Quantum Hackathon 2022 [repo](https://github.com/cosmcif/Quantum-Hardware-Education-Challenge---QWorld)
 
 ## 
 
