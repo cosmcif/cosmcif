@@ -11,7 +11,7 @@ yes mom i deauthed my sis from the home wifi, im sorry
 
 🐡 **JourneyTales** the best travel social media [repo not public yet](https://gitlab.com/usi-si-teaching/bachelor-inf/2023/software-atelier-4/team-4-pufferfish)
 
-⚔️ maybe one day I'll make the java yu-gi-oh repo public as well
+⚔️ **Ma-Thi-Oh! (Java Yu-Gi-Oh!)** [repo not public yet](#)
 
 ![blinkiesCafe-fs](https://github.com/cosmcif/cosmcif/assets/75504103/96184900-b19e-4148-b947-253234642155)
 
@@ -19,7 +19,9 @@ yes mom i deauthed my sis from the home wifi, im sorry
 
 ![blinkiesCafe-W3](https://github.com/cosmcif/cosmcif/assets/75504103/5c5dc162-c518-44e7-b50c-4aa6fc1bb9a8)
 
-🎂 Alice and Bob use QKD to plan Eve's surprise birthday party [game](https://cosmcif.itch.io/qkd)
+🎂 Alice and Bob use QKD to plan Eve's surprise birthday party [game](https://cosmcif.itch.io/qkd) / [repo not public yet](#)
+
+🌿 Esame di maturità - Shor vs RSA [game](https://cosmcif.github.io/elaborato/) / [repo not public yet](#)
 
 ![mousepow](https://github.com/cosmcif/cosmcif/assets/75504103/b4b387f4-42f4-4979-8c74-7afaabea1883)
 ![internetprivacy](https://github.com/cosmcif/cosmcif/assets/75504103/3e54d56c-23bf-42c9-850f-d8d970444d11)
@@ -31,3 +33,5 @@ yes mom i deauthed my sis from the home wifi, im sorry
 
 ![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 <img src="https://tryhackme-badges.s3.amazonaws.com/cosmcif.png" alt="TryHackMe">
+
+<sub>*most repos are private because they're owned by the school / university</sub>
