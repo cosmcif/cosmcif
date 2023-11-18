@@ -17,6 +17,8 @@ yes mom i deauthed my sis from the home wifi, im sorry
 
 ⚙️ Womanium Quantum Hackathon 2022 [repo](https://github.com/cosmcif/Quantum-Hardware-Education-Challenge---QWorld)
 
+🐬 Junction 2023 [repo](https://github.com/CuremateJunction/frontend)
+
 ![blinkiesCafe-W3](https://github.com/cosmcif/cosmcif/assets/75504103/5c5dc162-c518-44e7-b50c-4aa6fc1bb9a8)
 
 🎂 Alice and Bob use QKD to plan Eve's surprise birthday party [game](https://cosmcif.itch.io/qkd) / [repo not public yet](#)
