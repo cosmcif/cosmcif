@@ -7,17 +7,19 @@ yes mom i deauthed my sis from the home wifi, im sorry
 
 ![blinkiesCafe-PI](https://github.com/cosmcif/cosmcif/assets/75504103/c41c4330-7b3f-4dc1-b161-b3730855fc14)
 
-🤝 **HandShake** the coolest messaging app [repo](https://github.com/ogs-at-usi/handshake) / [website](https://handshakeapp.ch/)
+🎨 **Raytracer** in C++ for the raytracing competition [repo will be public after the 19th of december](https://github.com/cosmcif/raytracer)
 
 🐡 **JourneyTales** the best travel social media [repo](https://gitlab.com/usi-si-teaching/bachelor-inf/2023/software-atelier-4/team-4-pufferfish) / [website](https://pufferfish.sa4.usi.ch/)
+
+🤝 **HandShake** the coolest messaging app [repo](https://github.com/ogs-at-usi/handshake) / [website](https://handshakeapp.ch/)
 
 ⚔️ **Ma-Thi-Oh! (Java Yu-Gi-Oh!)** [repo not public yet](#)
 
 ![blinkiesCafe-fs](https://github.com/cosmcif/cosmcif/assets/75504103/96184900-b19e-4148-b947-253234642155)
 
-⚙️ Womanium Quantum Hackathon 2022 [repo](https://github.com/cosmcif/Quantum-Hardware-Education-Challenge---QWorld)
-
 🐬 Junction 2023 [repo](https://github.com/CuremateJunction/frontend)
+
+⚙️ Womanium Quantum Hackathon 2022 [repo](https://github.com/cosmcif/Quantum-Hardware-Education-Challenge---QWorld)
 
 ![blinkiesCafe-W3](https://github.com/cosmcif/cosmcif/assets/75504103/5c5dc162-c518-44e7-b50c-4aa6fc1bb9a8)
 
