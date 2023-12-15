@@ -7,9 +7,9 @@ yes mom i deauthed my sis from the home wifi, im sorry
 
 ![blinkiesCafe-PI](https://github.com/cosmcif/cosmcif/assets/75504103/c41c4330-7b3f-4dc1-b161-b3730855fc14)
 
-🤝 **HandShake** the coolest messaging app [repo](https://github.com/ogs-at-usi/handshake)
+🤝 **HandShake** the coolest messaging app [repo](https://github.com/ogs-at-usi/handshake) / [website](https://handshakeapp.ch/)
 
-🐡 **JourneyTales** the best travel social media [repo not public yet](https://gitlab.com/usi-si-teaching/bachelor-inf/2023/software-atelier-4/team-4-pufferfish)
+🐡 **JourneyTales** the best travel social media [repo](https://gitlab.com/usi-si-teaching/bachelor-inf/2023/software-atelier-4/team-4-pufferfish) / [website](https://pufferfish.sa4.usi.ch/)
 
 ⚔️ **Ma-Thi-Oh! (Java Yu-Gi-Oh!)** [repo not public yet](#)
 
@@ -21,9 +21,9 @@ yes mom i deauthed my sis from the home wifi, im sorry
 
 ![blinkiesCafe-W3](https://github.com/cosmcif/cosmcif/assets/75504103/5c5dc162-c518-44e7-b50c-4aa6fc1bb9a8)
 
-🎂 Alice and Bob use QKD to plan Eve's surprise birthday party [game](https://cosmcif.itch.io/qkd) / [repo not public yet](#)
+🎂 Alice and Bob use QKD to plan Eve's surprise birthday party [game](https://cosmcif.itch.io/qkd)
 
-🌿 Esame di maturità - Shor vs RSA [game](https://cosmcif.github.io/elaborato/) / [repo not public yet](#)
+🌿 Esame di maturità - Shor vs RSA [game](https://github.com/cosmcif/esame-maturita)
 
 ![mousepow](https://github.com/cosmcif/cosmcif/assets/75504103/b4b387f4-42f4-4979-8c74-7afaabea1883)
 ![internetprivacy](https://github.com/cosmcif/cosmcif/assets/75504103/3e54d56c-23bf-42c9-850f-d8d970444d11)
