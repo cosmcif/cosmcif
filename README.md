@@ -38,4 +38,4 @@ yes mom i deauthed my sis from the home wifi, im sorry
 ![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 <img src="https://tryhackme-badges.s3.amazonaws.com/cosmcif.png" alt="TryHackMe">
 
-<sub>*most repos are private because they're owned by the school / university</sub>
+<sub>*some repos are private because they're owned by the school / university</sub>
