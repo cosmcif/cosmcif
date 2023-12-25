@@ -1,3 +1,4 @@
+![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 # hello im sofi
 i make music, games, i like cryptography and graphics and quantum stuff and i love cooking. i'll eventually make a cookbook repo
 ## School projects
@@ -32,8 +33,5 @@ i make music, games, i like cryptography and graphics and quantum stuff and i lo
 ![microsoft_stop](https://github.com/cosmcif/cosmcif/assets/75504103/7453aafc-b8cf-4278-abfb-016b4a187929)
 ![join_logo](https://github.com/cosmcif/cosmcif/assets/75504103/10051eb1-6967-4921-bcd4-0262eafa4146)
 ![kant8831](https://github.com/cosmcif/cosmcif/assets/75504103/92be678b-d457-4715-ab60-946a790cd4d1)
-
-![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cosmcif.png" alt="TryHackMe">
 
 <sub>*some repos are private because they're owned by the school / university</sub>
