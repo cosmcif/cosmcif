@@ -25,7 +25,6 @@ i make music, games, i like cryptography and graphics and quantum stuff and i lo
 
 🎼 My scores [[repo is private for now](https://github.com/cosmcif/my-scores)]
 
-## enjoy the 88x31 spam
 ![mousepow](https://github.com/cosmcif/cosmcif/assets/75504103/b4b387f4-42f4-4979-8c74-7afaabea1883)
 ![internetprivacy](https://github.com/cosmcif/cosmcif/assets/75504103/3e54d56c-23bf-42c9-850f-d8d970444d11)
 ![piracy](https://github.com/cosmcif/cosmcif/assets/75504103/05909d63-5fca-4966-9b1d-11358b59fe75)
