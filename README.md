@@ -4,7 +4,7 @@ i make music, games, i like cryptography and graphics and quantum stuff and i lo
 ## School projects
 🎨 **Raytracer** in C++ for the raytracing competition [[repo](https://github.com/cosmcif/raytracer) / [results](https://www.pdf.inf.usi.ch/rendering_competition/2023/)]
 
-🐡 **JourneyTales** - the best travel social media [[repo](https://gitlab.com/usi-si-teaching/bachelor-inf/2023/software-atelier-4/team-4-pufferfish) / [website](https://pufferfish.sa4.usi.ch/)]
+🐡 **JourneyTales** - the best travel social media [[repo](https://gitlab.com/usi-si-oss/teaching/projects-showcase/sa4/team-4-pufferfish) / [website](https://pufferfish.sa4.usi.ch/)]
 
 🤝 **HandShake** - the coolest messaging app [[repo](https://github.com/ogs-at-usi/handshake) / [website](https://handshakeapp.ch/)]
 
