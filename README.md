@@ -33,4 +33,4 @@ i make music, games, i like cryptography and graphics and quantum stuff and i lo
 ![join_logo](https://github.com/cosmcif/cosmcif/assets/75504103/10051eb1-6967-4921-bcd4-0262eafa4146)
 ![kant8831](https://github.com/cosmcif/cosmcif/assets/75504103/92be678b-d457-4715-ab60-946a790cd4d1)
 
-<sub>*some repos are private because they're owned by the school / university</sub>
+<sub>*some repos are private because they're owned by the university / others</sub>
