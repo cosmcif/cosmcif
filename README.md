@@ -1,6 +1,6 @@
 ![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 # hello im sofi
-i make music, games, i like cryptography and graphics and quantum stuff and i love cooking. i'll eventually make a cookbook repo
+i make music, games, i like cryptography and graphics and quantum stuff and i love cooking. i'll eventually publish my cookbook repo
 ## School projects
 🎨 **Raytracer** in C++ for the raytracing competition [[repo](https://github.com/cosmcif/raytracer) / [results](https://www.pdf.inf.usi.ch/rendering_competition/2023/)]
 
