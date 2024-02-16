@@ -1,6 +1,8 @@
 ![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 # hello im sofi
+### currently working on: [.ceol](https://github.com/TerryCavanagh/boscaceoil) to [.mxl](https://github.com/musescore/MuseScore) converter
 i make music, games, i like cryptography and graphics and quantum stuff and i love cooking. i'll eventually publish my cookbook repo
+
 ## School projects
 🎨 **Raytracer** in C++ for the raytracing competition [[repo](https://github.com/cosmcif/raytracer) / [results](https://www.pdf.inf.usi.ch/rendering_competition/2023/)]
 
@@ -19,11 +21,6 @@ i make music, games, i like cryptography and graphics and quantum stuff and i lo
 🎂 Alice and Bob use QKD to plan Eve's surprise birthday party [[game](https://cosmcif.itch.io/qkd)]
 
 🌿 Esame di maturità - Shor vs RSA [[game](https://github.com/cosmcif/esame-maturita)]
-
-## Music
-▶️ My YouTube channel [[link](https://www.youtube.com/@cosmcif)]
-
-🎼 My scores [[repo is private for now](https://github.com/cosmcif/my-scores)]
 
 ![mousepow](https://github.com/cosmcif/cosmcif/assets/75504103/b4b387f4-42f4-4979-8c74-7afaabea1883)
 ![internetprivacy](https://github.com/cosmcif/cosmcif/assets/75504103/3e54d56c-23bf-42c9-850f-d8d970444d11)
