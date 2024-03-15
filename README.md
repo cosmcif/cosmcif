@@ -7,7 +7,7 @@
 
 i make **music**, **games**, i like **cryptography** and **graphics** and **quantum** and i love cooking. i'll eventually publish my cookbook repo
 
-## School projects
+## Projects
 🎨 **Raytracer** in C++ for the raytracing competition [[repo](https://github.com/cosmcif/raytracer) / [results](https://www.pdf.inf.usi.ch/rendering_competition/2023/)]
 
 🐡 **JourneyTales** - the best travel social media [[repo](https://gitlab.com/usi-si-oss/teaching/projects-showcase/sa4/team-4-pufferfish) / [website](https://pufferfish.sa4.usi.ch/)]
@@ -16,7 +16,7 @@ i make **music**, **games**, i like **cryptography** and **graphics** and **quan
 
 ⚔️ **Ma-Thi-Oh!** - Yu-Gi-Oh! in Java [[repo not public yet](#)]
 
-## Hackathon projects
+## Hackathons
 🐬 **Finn** - Junction Helsinki 2023 [[repo](https://github.com/CuremateJunction/frontend)]
 
 ⚙️ **Quantum Hardware Education Challenge** - Womanium Quantum Hackathon 2022 [[repo](https://github.com/cosmcif/Quantum-Hardware-Education-Challenge---QWorld)]
