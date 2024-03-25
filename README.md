@@ -5,7 +5,7 @@
 - a cool project: [.ceol](https://github.com/TerryCavanagh/boscaceoil) to [.mxl](https://github.com/musescore/MuseScore) converter [[repo private for now](https://github.com/cosmcif/ceoil-to-musescore)]
 - my website: at each iteration it gets more and more minimalist.....
 
-i make **music**, **games**, i like **cryptography** and **graphics** and **quantum** and i love cooking. i'll eventually publish my cookbook repo
+i make **music**, **games**, i like **cryptography** and **graphics** and **quantum** and i love cooking [cookbook repo](https://github.com/cosmcif/cookbook)
 
 ## Projects
 🎨 **Raytracer** in C++ for the raytracing competition [[repo](https://github.com/cosmcif/raytracer) / [results](https://www.pdf.inf.usi.ch/rendering_competition/2023/)]
