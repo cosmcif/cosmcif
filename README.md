@@ -1,9 +1,9 @@
 ![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 # hello im sofi
 ### currently working on: 
-- my BSc thesis: does free will exist?
+- my BSc thesis: strange loops and free will 
 - a cool project: [.ceol](https://github.com/TerryCavanagh/boscaceoil) to [.mxl](https://github.com/musescore/MuseScore) converter [[repo private for now](https://github.com/cosmcif/ceoil-to-musescore)]
-- my website: at each iteration it gets more and more minimalist.....
+- my website: im never satisfied w/ it..
 
 i make **music**, **games**, i like **cryptography** and **graphics** and **quantum** and i love cooking [cookbook repo](https://github.com/cosmcif/cookbook)
 
@@ -13,8 +13,6 @@ i make **music**, **games**, i like **cryptography** and **graphics** and **quan
 🐡 **JourneyTales** - the best travel social media [[repo](https://gitlab.com/usi-si-oss/teaching/projects-showcase/sa4/team-4-pufferfish) / [website](https://pufferfish.sa4.usi.ch/)]
 
 🤝 **HandShake** - the coolest messaging app [[repo](https://github.com/ogs-at-usi/handshake) / [website](https://handshakeapp.ch/)]
-
-⚔️ **Ma-Thi-Oh!** - Yu-Gi-Oh! in Java [[repo not public yet](#)]
 
 ## Hackathons
 🐬 **Finn** - Junction Helsinki 2023 [[repo](https://github.com/CuremateJunction/frontend)]
@@ -34,4 +32,4 @@ i make **music**, **games**, i like **cryptography** and **graphics** and **quan
 ![join_logo](https://github.com/cosmcif/cosmcif/assets/75504103/10051eb1-6967-4921-bcd4-0262eafa4146)
 ![kant8831](https://github.com/cosmcif/cosmcif/assets/75504103/92be678b-d457-4715-ab60-946a790cd4d1)
 
-<sub>*some repos are private because they're owned by the university / others</sub>
+<sub>*some repos may be private because they're owned by third parties</sub>
