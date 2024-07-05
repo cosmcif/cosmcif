@@ -1,7 +1,6 @@
 ![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 # hello im sofi
 ### currently working on: 
-- my BSc thesis: strange loops and free will 
 - a cool project: [.ceol](https://github.com/TerryCavanagh/boscaceoil) to [.mxl](https://github.com/musescore/MuseScore) converter [[repo private for now](https://github.com/cosmcif/ceoil-to-musescore)]
 - my website: im never satisfied w/ it..
 
