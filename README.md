@@ -2,11 +2,13 @@
 # hello im sofi
 ### currently working on: 
 - a cool project: [.ceol](https://github.com/TerryCavanagh/boscaceoil) to [.mxl](https://github.com/musescore/MuseScore) converter [[repo private for now](https://github.com/cosmcif/ceoil-to-musescore)]
-- my website: im never satisfied w/ it..
 
 i make **music**, **games**, i like **cryptography** and **graphics** and **quantum** and i love cooking [cookbook repo](https://github.com/cosmcif/cookbook)
 
+Check out my [website](https://cosmcif.github.io/), I promise it's cool
 ## Projects
+🌾 **A Strange Loop in the Quantum Turing Machine** - my bachelor project on free will [[repo](https://github.com/cosmcif/bachelor-project/)]
+
 🎨 **Raytracer** in C++ for the raytracing competition [[repo](https://github.com/cosmcif/raytracer) / [results](https://www.pdf.inf.usi.ch/rendering_competition/2023/)]
 
 🐡 **JourneyTales** - the best travel social media [[repo](https://gitlab.com/usi-si-oss/teaching/projects-showcase/sa4/team-4-pufferfish) / [website](https://pufferfish.sa4.usi.ch/)]
