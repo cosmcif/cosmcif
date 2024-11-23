@@ -1,7 +1,7 @@
 ![virus-goyang2](https://github.com/cosmcif/cosmcif/assets/75504103/ea86410b-27e9-4027-ba44-792f1b6e0586) 
 # hello im sofi
 ### currently working on: 
-- something with mpm and physics simulations? 
+- surviving at ETH zurich
 - a cool project: [.ceol](https://github.com/TerryCavanagh/boscaceoil) to [.mxl](https://github.com/musescore/MuseScore) converter [[repo private for now](https://github.com/cosmcif/ceoil-to-musescore)] 
 
 i make **music**, **games**, i like **cryptography** and **graphics** and **quantum** and i love cooking [cookbook repo](https://github.com/cosmcif/cookbook)
